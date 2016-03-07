@@ -12,7 +12,6 @@ screen_name = None
 
 def display():
     tagList = []
-    space = ''
     cursor = c.execute('SELECT tags from hashtag')
     for row in cursor:
         text = ''
