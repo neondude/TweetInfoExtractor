@@ -1,5 +1,5 @@
 # Prerequisites
----
+
 ## Replace: 
 >*    Access Token key and secret by the users Access Token key and secret
 >*    Consumer key and secret by the app's consumer key and secret
@@ -10,7 +10,7 @@
 >Make sure that you are not under any proxy server and also make sure that internet access is available.
 
 # To execute loadhashDB.py
----
+
 >## Usage:
 >> in command propmt navigate to directory containing loadhashDB.py
 >
@@ -24,7 +24,7 @@
 >>Twitter user name
 
 # To execute ShowTweetData.py
----
+
 >## Usage:
 >> in command prompt navigate to directory containing ShowTweetData.py
 >
