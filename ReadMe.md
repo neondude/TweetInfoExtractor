@@ -5,7 +5,7 @@
 >*    Consumer key and secret by the app's consumer key and secret
 
 ####   In auth_and_Secret.py file where line as shown bellow.
-    TweetOuth=Tweetoauth('Access Token key','Access Token Secret','consumer key', 'consumer secret'
+    TweetOuth=Tweetoauth('Access Token key','Access Token Secret','consumer key', 'consumer secret')
 ### Instruction to Execute
 >Make sure that you are not under any proxy server and also make sure that internet access is available.
 
