@@ -32,6 +32,8 @@
         python ShowTweetData.py <tweet_id>
 >>### tweetId
 >> tweet id of an individual tweet
+>>## Result
+>> Displays the tweet information of the given tweet
 
 # To execute TweetTotalCount.py
 
@@ -41,4 +43,6 @@
         python TweetTotalCount.py <username>
 >>## Username
 >>Twitter username
+>>## Result
+>> Displays the Total retweet count and Total favorite count of the tweets of a given user.
 >>*Note: The user_timeline api retrieves only the latest 3200 tweets(both tweets and retweets are counted). Any tweet older than that cannot be fetched using user_timeline api* 
