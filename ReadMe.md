@@ -22,7 +22,8 @@
 >
 >>### Username
 >>Twitter username
->> Note: The user_timeline api retrieves only the latest 3200 tweets(both tweets and retweets are counted). Any tweet older than that cannot be fetched using user_timeline api
+>>#### Note: 
+>> The user_timeline api retrieves only the latest 3200 tweets(both tweets and retweets are counted). Any tweet older than that cannot be fetched using user_timeline api
 
 # To execute ShowTweetData.py
 
@@ -45,4 +46,5 @@
 >>Twitter username
 >>## Result
 >> Displays the Total retweet count and Total favorite count of the tweets of a given user.
->> Note: The user_timeline api retrieves only the latest 3200 tweets(both tweets and retweets are counted). Any tweet older than that cannot be fetched using user_timeline api
+>> ####Note:
+>>The user_timeline api retrieves only the latest 3200 tweets(both tweets and retweets are counted). Any tweet older than that cannot be fetched using user_timeline api
