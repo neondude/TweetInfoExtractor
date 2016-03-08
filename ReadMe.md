@@ -21,7 +21,8 @@
 >>* display: Display all the hastags without duplicates in command prompt
 >
 >>### Username
->>Twitter user name
+>>Twitter username
+>>*Note: The user_timeline api retrieves only the latest 3200 tweets(both tweets and retweets are counted). Any tweet older than that cannot be fetched using user_timeline api* 
 
 # To execute ShowTweetData.py
 
@@ -31,3 +32,13 @@
         python ShowTweetData.py <tweet_id>
 >>### tweetId
 >> tweet id of an individual tweet
+
+# To execute TweetTotalCount.py
+
+>## Usage:
+>> in command prompt navigate to directory containg TweetTotalCount.py
+>
+        python TweetTotalCount.py <username>
+>>## Username
+>>Twitter username
+>>*Note: The user_timeline api retrieves only the latest 3200 tweets(both tweets and retweets are counted). Any tweet older than that cannot be fetched using user_timeline api* 
